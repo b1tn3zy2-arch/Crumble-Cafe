@@ -30,7 +30,6 @@ my-cafe/
 │   ├── contact.js        — вкладка «Контакты»
 │   ├── menu-data.json    — данные блюд
 │   └── images/           — картинки блюд
-├── dist/                 — собранный проект (создаётся автоматически)
 ├── webpack.config.js
 └── package.json
 ```
@@ -84,12 +83,3 @@ my-cafe/
 - Webpack 5
 - HTML, CSS
 - localStorage
-
-## Что получится в итоге
-my-cafe/
-├── src/
-│   └── ... (все файлы)
-├── dist/
-├── webpack.config.js
-├── package.json
-└── README.md 
